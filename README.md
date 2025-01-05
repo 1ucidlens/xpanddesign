@@ -1,1 +1,1 @@
-# xpanddesign
+# xpand Style Guide
